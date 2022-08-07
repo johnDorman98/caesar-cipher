@@ -8,20 +8,22 @@
  6. [Author](#author)
 
 <a id="introduction"></a>
-## Welcome to my caesar cipher program. 👋 
-In this first version of the program, I am experimenting with the Caesar cipher, as I will also work with other ciphers for some added features to my password generator.
+## Welcome to my Caesar cipher program. 👋 
+This version of the Caesar cipher has been updated to allow for a selected set of letters, numbers, and symbols that can be encrypted or decrypted to any given shift value. It functions for invalid characters as well and leaves them as they are, which then does not affect the outcome of the text.
 
 ---
 
 <a name="features"></a>
 ## Features 
-* It asks the user for inputs to be used in the encryption function.
-* It displays the encrypted word shifted by the user-specified number of letters.
+* It displays a menu for the user to select from.
+* Lets the user see a list of valid characters.
+* The user is able to encrypt or decrypt any given message to a given shift value.
+* The new version now allows for decryption, functionality for symbols, letters, and numbers, and an improved UI.
 
 ## Upcoming features
-* Add decryption functionality.
-* Add functionality for symbols, letters, and sentences.
-* Improve UI
+* Add decryption functionality. ✅ 
+* Add functionality for symbols, letters, and sentences. ✅
+* Improve UI - Upcoming.
 
 ---
 
